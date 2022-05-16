@@ -5,8 +5,9 @@
 }
 
 .loader__quart{
-    border: 20px solid lightgray;
+    border: 20px solid white;
     border-top: 20px solid lightgreen;
+    border-bottom: 20px solid lightskyblue;
     border-radius: 50%;
     width: 120px;
     height: 120px;
